@@ -1,0 +1,143 @@
+    1  ls
+    2  pwd
+    3  cd ~
+    4  pwd
+    5  cd eclipse-workspace/
+    6  ls
+    7  cd /c/
+    8  ls
+    9  pwd
+   10  cd lenovo
+   11  cd Users/Lenovo/Desktop/
+   12  cd Java/
+   13  ls
+   14  git init
+   15  git status
+   16  git add basics-Shymko
+   17  git status
+   18  vim
+   19  git commit basics-Shymko/
+   20  git config --global user.email
+   21  git config --global user.email "shim-2006@tut.by"
+   22  git config --global user.email
+   23  git config --global user.name "Dmitri Shymko"
+   24  git config --global user.name 
+   25  git config --global user.email
+   26  git commit basics-Shymko/
+   27  git status
+   28  git log
+   29  git remote add origin git@github.com:Dmitri-Shymko/basics-Shymko.git
+   30  git remote
+   31  git branch -M main
+   32  git status
+   33  git remote add origin git@github.com:Dmitri-Shymko/basics-Shymko.git
+   34  git remote
+   35  git branch
+   36  git branch -M master
+   37  git push -u origin master
+   38  git push -u origin main
+   39  зцв
+   40  pwd
+   41  cd Desktop/
+   42  cd Java/
+   43  cd Shymko-git-repo/
+   44  git init
+   45  git remote add origin git@github.com:Dmitri-Shymko/git-training-Shymko.git
+   46  git branch -a
+   47  git status
+   48  pwd
+   49  git branch -l
+   50  vim first.txt
+   51  git add first.txt 
+   52  git commit first.txt 
+   53  vim first.txt 
+   54  git add first.txt 
+   55  vim second.txt
+   56  ls
+   57  vim second.txt
+   58  git add second.txt 
+   59  git commit second.txt 
+   60  git status
+   61  git push
+   62  git push --set-upstream origin master
+   63  git branch task1
+   64  git branch -a
+   65  git checkout task1
+   66  vim third.txt
+   67  git add third.txt 
+   68  git commit third.txt 
+   69  vim third.txt
+   70  git add third.txt
+   71  vim oneMoreFile.txt
+   72  git add oneMoreFile.txt 
+   73  git commit oneMoreFile.txt 
+   74  git push 
+   75  git push --set-upstream origin task1
+   76  git push --set-upstream origin task1
+   77  pwd
+   78  cd java
+   79  cd..
+   80  cd ..
+   81  md Shymko-git-repo2
+   82  mkdir Shymko-git-repo2
+   83  cd Shymko-git-repo2
+   84  git clone git@github.com:Dmitri-Shymko/git-training-Shymko.git
+   85  git ctatus
+   86  git status
+   87  cd git-training-Shymko/
+   88  git branch -a
+   89  git status
+   90  git checkout task1
+   91  vim oneMoreNewFile.txt
+   92  ls
+   93  vim first.txt 
+   94  add commit
+   95  git commit
+   96  git add.
+   97  git add .
+   98  git commit -m
+   99  git commit
+  100  git push
+  101  git checkout master
+  102  nul > readme.md
+  103  touch readme.md
+  104  vim readme.md 
+  105  git add -a
+  106  git add.
+  107  git add .
+  108  ls
+  109  git commit 
+  110  git push
+  111  cd ..
+  112  cd ..
+  113  cd Shymko-git-repo
+  114  git status
+  115  git pull origin master
+  116  ls
+  117  vim second.txt
+  118  git add second.txt 
+  119  git commit -m "second.txt was changed"
+  120  git push
+  121  git pull origin task1
+  122  vim second.txt 
+  123  git push
+  124  git fetch [origin]
+  125  git checkout master
+  126  git merge 
+  127  git gui
+  128  git add first.txt 
+  129  git commit first.txt 
+  130  git pull
+  131  abort merge 
+  132  git merge abort
+  133  git commit
+  134  git checkout master
+  135  git pull
+  136  git log --graph
+  137  git branch task2
+  138  git checkout task2
+  139  touch history.txt
+  140  ls
+  141  git history 
+  142  history
+  143  history > history.txt
