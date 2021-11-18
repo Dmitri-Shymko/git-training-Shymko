@@ -1,0 +1,54 @@
+* commit cc117840c830747a32b7e348813679488c05f6d2
+| Author: Dmitri Shymko <shim-2006@tut.by>
+| Date:   Thu Nov 18 21:13:28 2021 +0300
+| 
+|     1. history added to history.txt
+|   
+*   commit 64533916de1286c3970b8245871f845439902e7e
+|\  Merge: be41f21 bd201f7
+| | Author: Dmitri Shymko <74759032+Dmitri-Shymko@users.noreply.github.com>
+| | Date:   Thu Nov 18 20:39:45 2021 +0300
+| | 
+| |     Merge pull request #1 from Dmitri-Shymko/task1
+| |     
+| |     Task1
+| | 
+| * commit bd201f7ba57b20eda2583128d18854f41a2141d3
+| | Author: Dmitri Shymko <shim-2006@tut.by>
+| | Date:   Thu Nov 18 16:29:49 2021 +0300
+| | 
+| |     1 one file added and first.txt modified
+| | 
+| * commit 542a1da7c959b4a8593121b4a149e91f9449733d
+| | Author: Dmitri Shymko <shim-2006@tut.by>
+| | Date:   Thu Nov 18 15:55:06 2021 +0300
+| | 
+| |     1 modified
+| |     2 changed
+| |     3 don't know formating rules
+| | 
+| * commit 60d3275736b3b053d707feb15c4c47aa258272d2
+| | Author: Dmitri Shymko <shim-2006@tut.by>
+| | Date:   Thu Nov 18 15:51:30 2021 +0300
+| | 
+| |     1 third file for git training
+| | 
+* | commit be41f21596df99e2e5684c994b8911f9287ea572
+|/  Author: Dmitri Shymko <shim-2006@tut.by>
+|   Date:   Thu Nov 18 19:45:12 2021 +0300
+|   
+|       1. readme.md file added
+| 
+* commit 0849eae64b8ca5bb5ba310fd3ccdb1f05b930b6e
+| Author: Dmitri Shymko <shim-2006@tut.by>
+| Date:   Thu Nov 18 13:28:45 2021 +0300
+| 
+|     1 initial commit
+|     2 second txt to git
+|     3 still don't know formatting rules
+| 
+* commit d7aaafa036cb4a1b49c0af0d5592d143e347807a
+  Author: Dmitri Shymko <shim-2006@tut.by>
+  Date:   Thu Nov 18 12:19:43 2021 +0300
+  
+      Initial commit
